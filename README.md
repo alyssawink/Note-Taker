@@ -11,9 +11,8 @@ To install this application:
 
 ## Usage
 1. Open the application in your web browser.
-2. Click on the generated link or use "http://localhost:3001" to access the notes page.
+2. Click on the generated link or use "http://localhost:3000" to access the notes page.
 3. Start writing and saving notes as per the acceptance criteria mentioned above.
-
 
 ## Application Image
 
@@ -21,7 +20,9 @@ To install this application:
 ## URLs
 https://github.com/alyssawink/Note-Taker
 
+https://note-taker-ouqe.onrender.com
 
+https://watch.screencastify.com/v/OV13TD68lGOc4KUpGtVc
 
 ## License
 MIT
