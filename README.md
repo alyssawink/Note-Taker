@@ -7,6 +7,7 @@ This is a note-taking application designed for small business owners to organize
 To install this application:
 
 · Simply clone the repository
+
 · run npm install & npm init -y to install the required dependencies.
 
 ## Usage
