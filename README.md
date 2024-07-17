@@ -15,7 +15,7 @@ To install this application:
 3. Start writing and saving notes as per the acceptance criteria mentioned above.
 
 ## Application Image
-
+![Screenshot 2024-07-16 at 6 56 52 PM](https://github.com/user-attachments/assets/de68ffd5-2272-4946-b50e-420840b21479)
 
 ## URLs
 https://github.com/alyssawink/Note-Taker
